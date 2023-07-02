@@ -1,6 +1,6 @@
 # react-hacker-text
 
-> 
+>
 
 [![NPM](https://img.shields.io/npm/v/react-hacker-text.svg)](https://www.npmjs.com/package/react-hacker-text) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -44,7 +44,6 @@ HackerText props:
 | characters      | string | The type of characters that will be showed(all, capital-letters, lower-letters, numbers, symbols). Default is all. |
 | onStart      | function | Function called before the render began |
 | onFinished      | function | Function called when finishes the text |
-
 
 To render a hacker text in a input we have to import hackerTextFunction:
 
